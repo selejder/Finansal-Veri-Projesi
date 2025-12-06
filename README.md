@@ -43,3 +43,6 @@ pip install -r requirements.txt
 
 # 3. Notebook'u Başlatın
 jupyter notebook FinansalVeriProjesi.ipynb
+```
+## Not
+Projenin hazırlanmasında Google'ın Gemini 3 modeli kullanılmıştır.
