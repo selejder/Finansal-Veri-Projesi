@@ -35,7 +35,7 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları takip edin:
 
 ```bash
 # 1. Depoyu Klonlayın
-git clone [REPO_ADRESİNİZ]
+git clone [https://github.com/selejder/Finansal-Veri-Projesi]
 cd Finansal-Analiz-Projesi
 
 # 2. Bağımlılıkları Kurun
